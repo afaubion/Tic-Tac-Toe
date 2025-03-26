@@ -7,4 +7,4 @@ When one player gets 3 locations in a row, the game ends and that play wins.
 
 If the entire board fills and no player has 3 in a row, neither player wins.
 
-This is implemented in Java and C++
+This is implemented in Java, C++, and Python.
